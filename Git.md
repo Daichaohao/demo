@@ -8,6 +8,7 @@ git clone
 
 //将工作区仓库git到暂存区
 git add
+
 //将暂存区仓库git到本地仓库
 git commit -m ''
 
